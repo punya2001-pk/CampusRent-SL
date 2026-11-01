@@ -8,7 +8,7 @@ CampusRent SL is a full-stack web application designed to help university studen
 
 | Boarding House Directory | Add Listing Modal |
 | :---: | :---: |
-| ![CampusRent SL Dashboard](./assets/preview.jpg) | ![Add Listing Modal](./assets/AddBoarding.png) |
+| ![CampusRent SL Dashboard](./assets/interface_preview.png) | ![Add Listing Modal](./assets/AddBoarding.png) |
 
 ---
 
