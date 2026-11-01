@@ -4,15 +4,6 @@ CampusRent SL is a full-stack web application designed to help university studen
 
 ---
 
-## 📸 Demo Preview
-
-<p align="center">
-  <img width="1280" alt="CampusRent SL Dashboard" src="H:\university\project\campus-boarding-finder\Campus_Boarding_Finder\src\assets\AddBoarding.png" />
-  <img width="1280" alt="Add Boarding Modal" src="./assets/AddBoarding.png" />
-</p>
-
----
-
 ## 🚀 Features
 
 - **Role-Based Workflows**: Tailored interface for students seeking accommodation and landlords managing properties.
